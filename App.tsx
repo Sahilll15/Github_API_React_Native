@@ -55,10 +55,6 @@ export default function GitHubUserSearch() {
     Linking.openURL(repoUrl);
   };
 
-  useEffect(() => {
-    // Set up any initial configurations or styles here
-  }, []);
-
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <View style={styles.searchContainer}>
