@@ -1,5 +1,5 @@
 
-![IMG_6617 2](https://github.com/Sahilll15/Github_API_React_Native/assets/109215419/c11953e7-b6e8-4c74-9daf-5daf5be85aa2)
+<img src="https://github.com/Sahilll15/Github_API_React_Native/assets/109215419/c11953e7-b6e8-4c74-9daf-5daf5be85aa2" alt="IMG_6617 2" style="width: 400px;">
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
